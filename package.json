@@ -8,7 +8,6 @@
     "dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "akkaraju-satvik <satvik.akkaraju@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
